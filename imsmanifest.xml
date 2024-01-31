@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5bmjqqISFSX" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Paediatric Drug Dose Calculation</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Paediatric_Drug_Dose_Calculation_ORG">
+    <organization identifier="Paediatric_Drug_Dose_Calculation_ORG">
+      <title>Paediatric Drug Dose Calculation</title>
+      <item identifier="DD_Calculation_SCO" isvisible="true" identifierref="__5bmjqqISFSX_RES">
+        <title>Paediatric Drug Dose Calculation</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5bmjqqISFSX_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5q5TNI99Dg0.png" />
+      <file href="story_content/6jkxW3eeBFJ_44100_48_0.mp3" />
+      <file href="mobile/6F7x7OYXj5s.png" />
+      <file href="mobile/5hjBH0KwrKT.png" />
+      <file href="mobile/6EA47BGVRlB.png" />
+      <file href="mobile/6a8IWBs2FAh.png" />
+      <file href="story_content/6i777ol7WNT_44100_48_0.mp3" />
+      <file href="mobile/6RYGbhLfnvb.png" />
+      <file href="mobile/6CuNbktfVeK.png" />
+      <file href="story_content/6cJbZxffQuc_44100_48_0.mp3" />
+      <file href="mobile/6mzVKIHhB3y.png" />
+      <file href="story_content/6qRHzQt0eSo_44100_48_0.mp3" />
+      <file href="mobile/6YLQiJeXIzV.png" />
+      <file href="story_content/5bhLOPKqlv3_44100_48_0.mp3" />
+      <file href="mobile/69jUGjJBt4G_P_18_0_493_512.png" />
+      <file href="mobile/5gD2Qhjn0oi.png" />
+      <file href="mobile/5yDMWp1Bzp4.png" />
+      <file href="story_content/5lNZEIIJfDY_44100_48_0.mp3" />
+      <file href="mobile/62nOwt40u8b.png" />
+      <file href="mobile/6IOCTZwEdn9.png" />
+      <file href="story_content/6PQjSpNTBTQ_44100_48_0.mp3" />
+      <file href="mobile/5VecwB21cVU.png" />
+      <file href="mobile/6lX1u9iNXEe.png" />
+      <file href="mobile/689zjiJ406B.png" />
+      <file href="story_content/6NCxMtaQXYE_44100_48_0.mp3" />
+      <file href="story_content/67pNfqb253H_44100_48_0.mp3" />
+      <file href="story_content/5wSQw0p9xW2_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5mqY85cLpRZ.jpg" />
+      <file href="mobile/Shape63PlEQbiChM.png" />
+      <file href="mobile/Shape6Mx9oAO8AVw.png" />
+      <file href="mobile/Shape6QJDRfLV9cU.png" />
+      <file href="mobile/Shape69KKIy9dG84.png" />
+      <file href="mobile/Shape6K3xOKGCAgR.png" />
+      <file href="mobile/Shape6kJhCMj4OtB.png" />
+      <file href="mobile/Shape6BFtzwIfmPe.png" />
+      <file href="mobile/Shape5XDJu28Wm2a.png" />
+      <file href="mobile/txt__default_6iCY36AHwct.png" />
+      <file href="mobile/Shape69fS7D3wwHk.png" />
+      <file href="mobile/Shape5rWdjviK5Nx.png" />
+      <file href="mobile/txt__default_6TiU4Pktp1F.png" />
+      <file href="mobile/Shape5X2PhDwRGMT.png" />
+      <file href="mobile/txt__default_5tPC2a6Kuzo.png" />
+      <file href="mobile/txt__default_6HTNh7gVkQw.png" />
+      <file href="mobile/Shape63GvqDOJNSh.png" />
+      <file href="mobile/Shape5ggdfXtsmnZ.png" />
+      <file href="mobile/Shape5kI0HbYGqat.png" />
+      <file href="mobile/Shape68HcUPxJJzs.png" />
+      <file href="mobile/Shape6Y43B6aUUIP.png" />
+      <file href="mobile/Shape6hXqBB0mGxI.png" />
+      <file href="mobile/Shape6CKYFXNnaCG.png" />
+      <file href="mobile/Shape6iZAFAdHV9R.png" />
+      <file href="mobile/Shape6SgrjA25dhX.png" />
+      <file href="mobile/Shape5uHPYlLlC9h.png" />
+      <file href="mobile/Shape5iYUyGmlHq2.png" />
+      <file href="mobile/Shape5gJxe8I3VmW.png" />
+      <file href="mobile/Shape5bna4y2GGVT.png" />
+      <file href="mobile/Shape5q0kq8r4W9Y.png" />
+      <file href="mobile/Shape6E0AvPfLow8.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5g2ZpuMejOY.js" />
+      <file href="html5/data/js/5YjRYvKNgEa.js" />
+      <file href="html5/data/js/6GtrP4aLXbd.js" />
+      <file href="html5/data/js/6i2ZIIoeDx4.js" />
+      <file href="html5/data/js/6JkXvQqt1HP.js" />
+      <file href="html5/data/js/6KQTU9ddnXG.js" />
+      <file href="html5/data/js/6n756Xg4jMu.js" />
+      <file href="html5/data/js/6NiE8OfAysp.js" />
+      <file href="html5/data/js/6NwuiJYj51N.js" />
+      <file href="html5/data/js/6rAs0jO6NJC.js" />
+      <file href="html5/data/js/6S7e0hUL50U.js" />
+      <file href="html5/data/js/6TZAkL0ec8A.js" />
+      <file href="html5/data/js/6Wm2c1hvZGI.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
